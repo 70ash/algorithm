@@ -22,12 +22,4 @@ public class TreeNode {
         this.left = left;
         this.right = right;
     }
-
-    public TreeNode getLeft() {
-        return this.left;
-    }
-
-    public TreeNode getRight() {
-        return this.right;
-    }
 }
